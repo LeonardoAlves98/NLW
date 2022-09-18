@@ -10,9 +10,9 @@ Projeto construido do evento Next Level Week Da Rocketseat.
 
 ##💻 Tecnologias
 
--HTML
--CSS
--Git e Github
+- HTML
+- CSS
+- Git e Github
 
 ## Contato
 leonardo.a_silva@hotmail.com
